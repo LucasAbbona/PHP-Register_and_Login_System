@@ -11,3 +11,7 @@ Una vez logeado se ve la siguiente imagen con el nombre de usuario perzonalizado
 ![image](https://user-images.githubusercontent.com/111323259/203381059-c812f4ea-8b76-4ede-abe8-3837223d5657.png)
 
 En el sistema de registro al enviar los datos a la base de datos se encripta la contraseña. 
+
+
+Registration and Login System By: Lucas Abbona.
+Todos los derechos reservados, en caso de querer citar la cuenta o usar parte del codigo se pide la inclusion del autor en los creditos para su libre uso.
